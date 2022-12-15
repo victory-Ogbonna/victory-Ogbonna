@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victory-Ogbonna
 - 👀 I’m interested in ...web and software development
 - 🌱 I’m currently learning ...azure DevOps
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...DevOps
 - 📫 How to reach me ...via email @amvictoriouscherie@gmail.com
 
 <!---
